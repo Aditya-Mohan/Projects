@@ -1,0 +1,14 @@
+Project
+
+This project has 3 parts:-
+
+1st part-
+For this project I created an API key in TMDB and implemented a query in parameter to search every tv series whose name contains "game" word.
+I used TMDB database and api modules to  for this purpose.
+
+2nd part-
+This list contains movies of those actors who goes by name "Christian".
+
+3rd part-
+It contains list of movies of actor named Christian Bale, with his TMDB id and sorted by descending popularity.
+(Note - list contains only 20/56 of his movies)

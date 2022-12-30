@@ -1,0 +1,4 @@
+Project
+
+In the project I connected to coindesk's API to monitor real time value of Bitcoin in US Dollars.
+(Time is shown in Coordinated Universal Time a.k.a UTC format)

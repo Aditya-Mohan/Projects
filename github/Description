@@ -1,0 +1,5 @@
+Mini Project 4
+
+For this project I made a dummy account for github. 
+Then sent request to github to connect with the account to details related to it like avatar_url, followers_url, following_url, repos_url, etc.
+Using skimage library I also printed the avatar url at last.

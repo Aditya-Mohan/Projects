@@ -48,7 +48,7 @@ int main()
             cout << "Enter 8 digit account number: ";
             string AccountNumber = "";
             cin >> AccountNumber;
-            if (AccountNumber.length() > 8 || AccountNumber.length() < 8)
+            if (AccountNumber.length() != 8)
             {
                 cout << "Invalid Account Number" << endl;
                 break;

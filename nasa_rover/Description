@@ -1,4 +1,0 @@
-Mini Project 3
-
-In this project I connected through open source API of NASA which is "DEMO_KEY".
-Then printed each camera's full name and at last imported skimage library to print 2 photographs clicked by rover's cameras.

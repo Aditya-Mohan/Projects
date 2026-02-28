@@ -1,0 +1,23 @@
+Project Overview:
+
+This project transforms fragmented ride-sharing data into a strategic Business Intelligence tool. It addresses key operational challenges such as revenue leakage from lost bookings and identifying geographic demand surges.
+
+Key Dashboard Pages:
+
+Executive Overview: Real-time tracking of total revenue and booking success rates with interactive monthly and quarterly filters.
+
+Vehicle Performance: Granular breakdown of booking counts and revenue contribution percentages by vehicle category.
+
+Revenue Deep-Dive: Analysis of financial flow by payment method (Cash vs. Digital) and customer loyalty tiers.
+
+Rider Insights: Investigation into cancellation reasons and rider frequency to improve the user experience.
+
+Logistics & Mapping: Visualization of total distance traveled and identification of "Busy Areas" to visualize urban mobility patterns.
+
+Technical Stack
+
+Data Visualization: Power BI
+
+Data Modeling: DAX for measures like "Contribution %".
+
+Analysis: Trend Analysis, Geospatial Mapping, and Customer Segmentation.

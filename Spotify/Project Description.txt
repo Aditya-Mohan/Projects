@@ -1,0 +1,23 @@
+1. Project Overview:
+
+This project analyzes the Spotify Top 50 Global dataset to uncover the underlying patterns that make a song a "hit." By examining both popularity metrics and technical audio features, the project provides a 360-degree view of the current global music landscape.
+
+
+2. Key Features:
+
+Global KPI Tracking: Real-time visualization of average track popularity and total artist representation.
+
+Musical Anatomy: Detailed breakdown of audio engineering metrics including Acoustic Ness, Instrumental Ness, and Liveness.
+
+Artist Leaderboards: Identification of the most influential artists and genres currently dominating the global charts.
+
+Tempo & Mood Analysis: Correlation studies between BPM, Energy, and Valence to understand the "vibe" of top-performing tracks.
+
+
+3. Technical Highlights:
+
+Data Cleaning: Handled the Spotify Top 50 dataset to ensure consistency across various audio features.
+
+Advanced Logic: Implemented calculations to determine the "Contribution" of specific genres to the total Top 50 list.
+
+Interactive Filtering: Added functionality to filter analysis by Artist, Genre, or Release Year for granular insights.
